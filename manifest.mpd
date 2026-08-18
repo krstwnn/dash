@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="urn:mpeg:dash:schema:mpd:2011"
-    <BaseURL>https://krstwnn.github.io/dash/</BaseURL>
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
 	profiles="urn:mpeg:dash:profile:isoff-live:2011"
@@ -10,6 +9,7 @@
 	maxSegmentDuration="PT4.0S"
 	minBufferTime="PT8.0S">
 	<ProgramInformation>
+    <BaseURL>https://krstwnn.github.io/dash/</BaseURL>
 	</ProgramInformation>
 	<ServiceDescription id="0">
 	</ServiceDescription>

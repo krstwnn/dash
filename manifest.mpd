@@ -8,8 +8,8 @@
 	mediaPresentationDuration="PT1M0.0S"
 	maxSegmentDuration="PT4.0S"
 	minBufferTime="PT8.0S">
-	<ProgramInformation>
     <BaseURL>https://krstwnn.github.io/dash/</BaseURL>
+	<ProgramInformation>
 	</ProgramInformation>
 	<ServiceDescription id="0">
 	</ServiceDescription>
